@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\work\\ForTest\\ForTest\\ForTest\\ForTest.csproj": {}
+    "D:\\work\\ForTest\\ForTest\\ForTest.csproj": {}
   },
   "projects": {
-    "D:\\work\\ForTest\\ForTest\\ForTest\\ForTest.csproj": {
+    "D:\\work\\ForTest\\ForTest\\ForTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\work\\ForTest\\ForTest\\ForTest\\ForTest.csproj",
+        "projectUniqueName": "D:\\work\\ForTest\\ForTest\\ForTest.csproj",
         "projectName": "ForTest",
-        "projectPath": "D:\\work\\ForTest\\ForTest\\ForTest\\ForTest.csproj",
+        "projectPath": "D:\\work\\ForTest\\ForTest\\ForTest.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\work\\ForTest\\ForTest\\ForTest\\obj\\",
+        "outputPath": "D:\\work\\ForTest\\ForTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
