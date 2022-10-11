@@ -24,3 +24,5 @@ D:\work\ForTest\ForTest\obj\Debug\net6.0\refint\ForTest.dll
 D:\work\ForTest\ForTest\obj\Debug\net6.0\ForTest.pdb
 D:\work\ForTest\ForTest\obj\Debug\net6.0\ForTest.genruntimeconfig.cache
 D:\work\ForTest\ForTest\obj\Debug\net6.0\ref\ForTest.dll
+D:\work\ForTest\ForTest\bin\Debug\net6.0\appsettings.Production.json
+D:\work\ForTest\ForTest\bin\Debug\net6.0\Certificate\gmajujq.top.pfx

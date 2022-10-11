@@ -1,5 +1,12 @@
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Host.ConfigureAppConfiguration((hostingContext, config) =>
+{
+    config.AddJsonFile($"appsettings.{builder.Environment.EnvironmentName}.json",
+                       optional: true,
+                       reloadOnChange: true);
+});
+
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
